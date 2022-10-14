@@ -1,0 +1,12 @@
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Core\bin\Debug\net6.0\CursoArquitecturaNet.Core.deps.json
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Core\bin\Debug\net6.0\CursoArquitecturaNet.Core.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Core\bin\Debug\net6.0\ref\CursoArquitecturaNet.Core.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Core\bin\Debug\net6.0\CursoArquitecturaNet.Core.pdb
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Core\obj\Debug\net6.0\CursoArquitecturaNet.Core.csproj.AssemblyReference.cache
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Core\obj\Debug\net6.0\CursoArquitecturaNet.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Core\obj\Debug\net6.0\CursoArquitecturaNet.Core.AssemblyInfoInputs.cache
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Core\obj\Debug\net6.0\CursoArquitecturaNet.Core.AssemblyInfo.cs
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Core\obj\Debug\net6.0\CursoArquitecturaNet.Core.csproj.CoreCompileInputs.cache
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Core\obj\Debug\net6.0\CursoArquitecturaNet.Core.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Core\obj\Debug\net6.0\ref\CursoArquitecturaNet.Core.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Core\obj\Debug\net6.0\CursoArquitecturaNet.Core.pdb

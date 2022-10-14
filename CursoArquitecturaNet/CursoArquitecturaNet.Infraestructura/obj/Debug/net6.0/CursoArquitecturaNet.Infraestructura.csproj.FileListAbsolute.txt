@@ -1,0 +1,15 @@
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\obj\Debug\net6.0\CursoArquitecturaNet.Infraestructura.csproj.AssemblyReference.cache
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\obj\Debug\net6.0\CursoArquitecturaNet.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\obj\Debug\net6.0\CursoArquitecturaNet.Infraestructura.AssemblyInfoInputs.cache
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\obj\Debug\net6.0\CursoArquitecturaNet.Infraestructura.AssemblyInfo.cs
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\obj\Debug\net6.0\CursoArquitecturaNet.Infraestructura.csproj.CoreCompileInputs.cache
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\bin\Debug\net6.0\CursoArquitecturaNet.Infraestructura.deps.json
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\bin\Debug\net6.0\CursoArquitecturaNet.Infraestructura.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\bin\Debug\net6.0\ref\CursoArquitecturaNet.Infraestructura.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\bin\Debug\net6.0\CursoArquitecturaNet.Infraestructura.pdb
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\bin\Debug\net6.0\CursoArquitecturaNet.Core.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\bin\Debug\net6.0\CursoArquitecturaNet.Core.pdb
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\obj\Debug\net6.0\CursoArquitecturaNet.Infraestructura.csproj.CopyComplete
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\obj\Debug\net6.0\CursoArquitecturaNet.Infraestructura.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\obj\Debug\net6.0\ref\CursoArquitecturaNet.Infraestructura.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Infraestructura\obj\Debug\net6.0\CursoArquitecturaNet.Infraestructura.pdb

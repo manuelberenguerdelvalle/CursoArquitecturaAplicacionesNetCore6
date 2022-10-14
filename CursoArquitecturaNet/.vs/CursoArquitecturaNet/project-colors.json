@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88fee37e-ab62-46a6-87d7-a54fec2bb924": {
+      "ProjectGuid": "88fee37e-ab62-46a6-87d7-a54fec2bb924",
+      "DisplayName": "CursoArquitecturaNet",
+      "ColorIndex": 0
+    },
+    "88d9da9a-dac1-47ef-a8e3-77a82b952efe": {
+      "ProjectGuid": "88d9da9a-dac1-47ef-a8e3-77a82b952efe",
+      "DisplayName": "CursoArquitecturaNet.Core",
+      "ColorIndex": 1
+    },
+    "9504a4c5-f35f-44ff-8348-7d4cb5548792": {
+      "ProjectGuid": "9504a4c5-f35f-44ff-8348-7d4cb5548792",
+      "DisplayName": "CursoArquitecturaNet.Infraestructura",
+      "ColorIndex": 2
+    },
+    "b299a562-54aa-4cba-bd96-973884e25f4c": {
+      "ProjectGuid": "b299a562-54aa-4cba-bd96-973884e25f4c",
+      "DisplayName": "CursoArquitecturaNet.Application",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

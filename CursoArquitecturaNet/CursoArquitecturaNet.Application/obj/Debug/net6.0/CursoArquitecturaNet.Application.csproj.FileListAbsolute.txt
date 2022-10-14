@@ -1,0 +1,15 @@
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\bin\Debug\net6.0\CursoArquitecturaNet.Application.deps.json
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\bin\Debug\net6.0\CursoArquitecturaNet.Application.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\bin\Debug\net6.0\ref\CursoArquitecturaNet.Application.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\bin\Debug\net6.0\CursoArquitecturaNet.Application.pdb
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\bin\Debug\net6.0\CursoArquitecturaNet.Core.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\bin\Debug\net6.0\CursoArquitecturaNet.Core.pdb
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\obj\Debug\net6.0\CursoArquitecturaNet.Application.csproj.AssemblyReference.cache
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\obj\Debug\net6.0\CursoArquitecturaNet.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\obj\Debug\net6.0\CursoArquitecturaNet.Application.AssemblyInfoInputs.cache
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\obj\Debug\net6.0\CursoArquitecturaNet.Application.AssemblyInfo.cs
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\obj\Debug\net6.0\CursoArquitecturaNet.Application.csproj.CoreCompileInputs.cache
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\obj\Debug\net6.0\CursoArquitecturaNet.Application.csproj.CopyComplete
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\obj\Debug\net6.0\CursoArquitecturaNet.Application.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\obj\Debug\net6.0\ref\CursoArquitecturaNet.Application.dll
+D:\mberenguer\Desktop\cursos\Arquitectura de Aplicaciones con .NET Core\source\CursoArquitecturaNet\CursoArquitecturaNet.Application\obj\Debug\net6.0\CursoArquitecturaNet.Application.pdb
